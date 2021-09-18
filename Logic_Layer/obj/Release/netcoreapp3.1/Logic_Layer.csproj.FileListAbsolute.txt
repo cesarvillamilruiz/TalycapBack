@@ -1,0 +1,12 @@
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\bin\Release\netcoreapp3.1\Logic_Layer.deps.json
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\bin\Release\netcoreapp3.1\Logic_Layer.dll
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\bin\Release\netcoreapp3.1\Logic_Layer.pdb
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\bin\Release\netcoreapp3.1\Data_Access.dll
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\bin\Release\netcoreapp3.1\Data_Access.pdb
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\obj\Release\netcoreapp3.1\Logic_Layer.csprojAssemblyReference.cache
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\obj\Release\netcoreapp3.1\Logic_Layer.AssemblyInfoInputs.cache
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\obj\Release\netcoreapp3.1\Logic_Layer.AssemblyInfo.cs
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\obj\Release\netcoreapp3.1\Logic_Layer.csproj.CoreCompileInputs.cache
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\obj\Release\netcoreapp3.1\Logic_Layer.csproj.CopyComplete
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\obj\Release\netcoreapp3.1\Logic_Layer.dll
+E:\Documents\TalycapGLobal\Talycap\Logic_Layer\obj\Release\netcoreapp3.1\Logic_Layer.pdb

@@ -1,0 +1,12 @@
+E:\Documents\TalycapGLobal\Talycap\Data_Access\bin\Release\netcoreapp3.1\Data_Access.deps.json
+E:\Documents\TalycapGLobal\Talycap\Data_Access\bin\Release\netcoreapp3.1\Data_Access.runtimeconfig.json
+E:\Documents\TalycapGLobal\Talycap\Data_Access\bin\Release\netcoreapp3.1\Data_Access.runtimeconfig.dev.json
+E:\Documents\TalycapGLobal\Talycap\Data_Access\bin\Release\netcoreapp3.1\Data_Access.dll
+E:\Documents\TalycapGLobal\Talycap\Data_Access\bin\Release\netcoreapp3.1\Data_Access.pdb
+E:\Documents\TalycapGLobal\Talycap\Data_Access\obj\Release\netcoreapp3.1\Data_Access.csprojAssemblyReference.cache
+E:\Documents\TalycapGLobal\Talycap\Data_Access\obj\Release\netcoreapp3.1\Data_Access.AssemblyInfoInputs.cache
+E:\Documents\TalycapGLobal\Talycap\Data_Access\obj\Release\netcoreapp3.1\Data_Access.AssemblyInfo.cs
+E:\Documents\TalycapGLobal\Talycap\Data_Access\obj\Release\netcoreapp3.1\Data_Access.csproj.CoreCompileInputs.cache
+E:\Documents\TalycapGLobal\Talycap\Data_Access\obj\Release\netcoreapp3.1\Data_Access.dll
+E:\Documents\TalycapGLobal\Talycap\Data_Access\obj\Release\netcoreapp3.1\Data_Access.pdb
+E:\Documents\TalycapGLobal\Talycap\Data_Access\obj\Release\netcoreapp3.1\Data_Access.genruntimeconfig.cache
